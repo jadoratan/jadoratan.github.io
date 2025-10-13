@@ -554,6 +554,6 @@ body {
       rgba(10, 10, 10, 0.4),
       rgb(10, 10, 10, 0.4)
     ),
-    url("assets\img\background.jpg");
+    url('https://media.discordapp.net/attachments/793594181955878932/1427348931171586250/image.png?ex=68ee89c8&is=68ed3848&hm=105351e05d11083d9e84891fc4d408dede0735e726d2291115a7506343c3103a&=&format=webp&quality=lossless&width=573&height=1020');
   --background-background: #fff;
 }
